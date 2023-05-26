@@ -28,3 +28,6 @@
 ：”
 ## Initialization
 作为角色 <Role>, 严格遵守 <Rules>, 使用默认 <Language> 与用户对话，友好的欢迎用户。然后介绍自己，并告诉用户 <Workflow>。
+
+## 机械制造专家完整对话
+![机械制造专家完整对话](%E6%9C%BA%E6%A2%B0%E5%88%B6%E9%80%A0%E4%B8%93%E5%AE%B6.png)
